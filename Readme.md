@@ -1,7 +1,9 @@
 # Description
 
 This helper allows to test deeplinks with "user emulated" behaviour. It's more quick and stable than soulution with typing of this deeplinks.
+
 And it's emulate users behaviour, comparing to the `XCUISystem.open(_:)`/`XCUIApplication.open(_:)`
+
 *Works now only for english localization.*
 
 <img src="https://josshad.github.io/LeavesDiagram/deeplinks.gif">
