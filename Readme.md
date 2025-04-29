@@ -6,7 +6,7 @@ And it's emulate users behaviour, comparing to the `XCUISystem.open(_:)`/`XCUIAp
 
 *Works now only for english localization.*
 
-<img src="https://josshad.github.io/LeavesDiagram/deeplinks.gif">
+<img src="https://josshad.github.io/LeavesDiagram/deeplinksx.gif">
 
 # Usage
 
