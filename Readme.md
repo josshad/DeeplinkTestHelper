@@ -3,6 +3,8 @@
 This helper drop in solution allows to test deeplinks with "user emulated" behaviour. It's more quick and stable than soulution with typing of this deeplinks.
 And it's emulate users behaviour, comparing to the `XCUISystem.open(_:)`/`XCUIApplication.open(_:)`
 
+<img src="https://josshad.github.io/LeavesDiagram/deeplinks.gif">
+
 # Usage
 
 Initialise helper tool via html string or path to html file. Optianally configure file and folder name.
