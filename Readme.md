@@ -47,4 +47,4 @@ helper.openDeeplink(withName: "Show version")
 Copy `DeeplinkTestHelper.swift` and `Files.swift` to your UI tests target. 
 
 ## SPM
-Under construction
+Add spm package to you *UI tests target*. Import `DeeplinkTestHelper` in your test file.
